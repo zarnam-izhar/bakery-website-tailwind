@@ -9,7 +9,7 @@ const About: React.FC = () => {
       <div className="bg-pink-100 bg-opacity-70 rounded-lg shadow-lg p-8 text-center" data-aos="fade-up">
         <h1 className="text-4xl font-bold text-pink-700 mb-6">About Us</h1>
         <p className="text-lg text-gray-900 mb-4">
-          Welcome to <span className="font-semibold text-pink-700">Kawai Bakery!</span> We're a family-owned bakery dedicated to bringing you the finest, freshly-baked treats with love and passion. 
+          Welcome to <span className="font-semibold text-pink-700">Kawai Bakery!</span> We&apos;re a family-owned bakery dedicated to bringing you the finest, freshly-baked treats with love and passion. 
           Our journey began in 2010 with a simple mission: to create mouth-watering pastries and bread that would make our customers smile.
         </p>
         <p className="text-lg text-gray-900 mb-4">
@@ -17,7 +17,7 @@ const About: React.FC = () => {
           their hearts into every recipe, ensuring that each bite is a delightful experience. We believe in quality, tradition, and innovation.
         </p>
         <p className="text-lg text-gray-900 mb-4">
-          Whether you're here for your daily croissant or a custom cake for a special occasion, we take pride in being part of your life’s moments, both big and small. 
+          Whether you are here for your daily croissant or a custom cake for a special occasion, we take pride in being part of your life’s moments, both big and small. 
           Come visit us at Sweet Crumbs Bakery and treat yourself to something delicious!
         </p>
         <h2 className="text-2xl font-bold text-pink-700 mt-8 mb-4">Our Mission</h2>
@@ -26,7 +26,7 @@ const About: React.FC = () => {
         </p>
         <h2 className="text-2xl font-bold text-pink-700 mt-8 mb-4">Our Vision</h2>
         <p className="text-lg text-gray-900 mb-4">
-          We envision a world where everyone can enjoy the simple pleasures of freshly baked bread and pastries, no matter where they are. That's why we're expanding our menu, introducing new flavors, and always looking for ways to better serve our community.
+          We envision a world where everyone can enjoy the simple pleasures of freshly baked bread and pastries, no matter where they are. That&apos;s why we are expanding our menu, introducing new flavors, and always looking for ways to better serve our community.
         </p>
       </div>
     </div>
